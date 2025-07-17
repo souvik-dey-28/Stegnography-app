@@ -57,9 +57,6 @@ To run the Steganography app locally, follow these steps:
    python app.py
    ```
 
-## Link to the Application
-
-[Steganography App](https://rithiksharma.pythonanywhere.com)
 
 ## Contributing
 
