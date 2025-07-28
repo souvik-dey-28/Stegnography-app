@@ -37,7 +37,7 @@ To run the Steganography app locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rithik-sharma12/Stegnography-app.git
+   git clone https://github.com/souvik-dey-28/Stegnography-app.git
    cd Stegnography-app
    ```
 
